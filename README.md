@@ -9,5 +9,7 @@ Deployed it on Firebase.
 ## Landing Page
 
 ![Web App](https://github.com/ChakitBhandari/BingeWatch/blob/main/1.png)
+<br/><br/>
 ![Web App](https://github.com/ChakitBhandari/BingeWatch/blob/main/2.png)
+<br/><br/>
 ![Web App](https://github.com/ChakitBhandari/BingeWatch/blob/main/3.png)
