@@ -15,3 +15,10 @@ Deployed it on Firebase.
 <br/><br/>
 <br/><br/>
 ![Web App](https://github.com/ChakitBhandari/BingeWatch/blob/main/3.png)
+
+## Built With
+1.ReactJS
+2.TMDB API
+
+## Run the Project
+Click here https://bingewatch-ff180.web.app/ to run the App.
