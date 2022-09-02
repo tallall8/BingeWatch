@@ -10,6 +10,8 @@ Deployed it on Firebase.
 
 ![Web App](https://github.com/ChakitBhandari/BingeWatch/blob/main/1.png)
 <br/><br/>
+<br/><br/>
 ![Web App](https://github.com/ChakitBhandari/BingeWatch/blob/main/2.png)
+<br/><br/>
 <br/><br/>
 ![Web App](https://github.com/ChakitBhandari/BingeWatch/blob/main/3.png)
