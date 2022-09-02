@@ -17,7 +17,7 @@ Deployed it on Firebase.
 ![Web App](https://github.com/ChakitBhandari/BingeWatch/blob/main/3.png)
 
 ## Built With
-1.ReactJS
+1.ReactJS <br/>
 2.TMDB API
 
 ## Run the Project
