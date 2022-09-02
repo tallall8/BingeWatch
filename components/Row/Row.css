@@ -1,0 +1,51 @@
+.row{
+    color: white;
+    /*
+    The above specifies the colour of the text
+    Binge Watch originals and all.
+     */
+    margin-left: 20px;
+}
+
+.row__posters{
+    display: flex;
+    overflow-y: hidden;  
+     /* Even if the row width is bigger so even if it overflows
+    we want it to scroll through x axis. */
+    /* Because we have a added a transform property below so
+    we need to hide the scorll in the y axis such that the image 
+    does not crop.*/
+    overflow-x: scroll;
+    padding: 30px;
+    padding-bottom: 70px;
+}
+
+.row__posters::-webkit-scrollbar {
+    /* This is used to keep the scroll bar hidden but don't
+    remove the functionality of scroll.*/
+    display: none;
+}
+
+.row__poster{
+    object-fit: contain;  /*This maintains the aspect ratio.*/
+    width:100%;
+    max-height: 150px;
+    margin-right: 10px;
+    transition: 450ms;
+}
+
+.row__poster:hover{
+    transform: scale(1.07); 
+    /*As written above in row poster transform 450ms so the moment 
+    you hover over that you will see the dimensions of the image
+    chaning to a new one in 450ms.*/
+}
+
+.row__posterLarge {
+    max-height: 300px;
+}
+
+.row__posterLarge:hover {
+    transform: scale(1.09);
+}
+  
