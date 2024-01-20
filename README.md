@@ -8,13 +8,13 @@ An OTT Platform made using ReactJS.
 
 ## Landing Page
 
-![Web App](https://github.com/ChakitBhandari/BingeWatch/blob/main/1.png)
+![Web App](https://github.com/ChakitBhandari/BingeWatch/blob/main/assets/1.png)
 <br/><br/>
 <br/><br/>
-![Web App](https://github.com/ChakitBhandari/BingeWatch/blob/main/2.png)
+![Web App](https://github.com/ChakitBhandari/BingeWatch/blob/main/assets/2.png)
 <br/><br/>
 <br/><br/>
-![Web App](https://github.com/ChakitBhandari/BingeWatch/blob/main/3.png)
+![Web App](https://github.com/ChakitBhandari/BingeWatch/blob/main/assets/3.png)
 
 ## Built With
 1. ReactJS <br/>
