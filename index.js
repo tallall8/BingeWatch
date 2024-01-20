@@ -9,5 +9,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
-//373a1e3686f12e349e97a03e68609e1f
